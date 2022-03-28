@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinApplication-Assignment02</string>
+    <string name="firstTitle">Register</string>
+    <string name="nameField">Enter Full Name</string>
+    <string name="emailField">Enter Email ID</string>
+    <string name="saveButton">Save</string>
+    <string name="save_info">Save Details</string>
+    <string name="showInfo">SHOW INFO</string>
+</resources>
